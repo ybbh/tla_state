@@ -39,14 +39,14 @@ It generated empty initial states.
 3. Toolbox: models -> New Model -> filling Temporal formula with **Spec** -> setting constants NODE_ID by **{"n1", "n2"}**
 4. Toolbox: Run TLA on the model
 5. Toolbox: The model checker result generated empty initial states
-![result](https://github.com/ybbh/tla_state/figures/node_2.png)
+![result](https://github.com/ybbh/tla_state/blob/main/figures/node_2.png)
 
 ## Steps Taken to Fix
 <!--- When this problem came up, what did you try before reporting it? -->
 
 1. When I changed the constants NODE_ID by **{"n1"}**, it generated correct result.
 
-2. The initial states would be OK if I uncomment this line in [state.tla](https://github.com/ybbh/tla_state/state.tla).
+2. The initial states would be OK if I uncomment this line in [state.tla](https://github.com/ybbh/tla_state/blob/main/state.tla).
   
     ```
       __WhyWeNeedThis == S2
