@@ -60,15 +60,6 @@ Possible when producing the initial state, the toolbox threw some unknown except
 <!--- Include as many relevant details about the environment in which you experienced the issue. -->
 <!--- Remove information if not applicable -->
  - TLC version: 2.15, 2.16
- - 
- 
- 
- 
- 
- 
- 
- 
- 
- version: 1.8.0.202303090234, 1.7.1.202012311918
+ - version: 1.8.0.202303090234, 1.7.1.202012311918
  - Operating System: Windows 10
   <!-- (Windows 10, Ubuntu 22.04, etc.) -->
