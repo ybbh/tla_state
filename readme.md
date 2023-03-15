@@ -19,7 +19,7 @@ If you need to share a specification, either:
  - Send a link to a Gist, GitHub reposity, Pastebin, etc.;
 -->
 
-The TLA+ Toolbox generated empty states which did not meet expectations.
+The Model checker generated empty states which did not meet expectations.
 I wrote a simple TLA+ specfication, https://github.com/ybbh/tla_state.
 When I used the model checker to check it, it generated empty initial states.
 
@@ -60,6 +60,15 @@ Possible when producing the initial state, the toolbox threw some unknown except
 <!--- Include as many relevant details about the environment in which you experienced the issue. -->
 <!--- Remove information if not applicable -->
  - TLC version: 2.15, 2.16
- - Toolbox version: 1.8.0.202303090234, 1.7.1.202012311918
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ version: 1.8.0.202303090234, 1.7.1.202012311918
  - Operating System: Windows 10
   <!-- (Windows 10, Ubuntu 22.04, etc.) -->
