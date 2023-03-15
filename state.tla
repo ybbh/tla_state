@@ -27,9 +27,9 @@ Init ==
     /\ v_id2 = [i \in NODE_ID |-> {}]
 
 
-
-__WhyWeNeedThis ==
-    S2
+ 
+\* When we uncomment this line, the initial state would be OK
+\* __WhyWeNeedThis == S2
 
 
 ----
