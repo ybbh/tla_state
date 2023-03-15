@@ -27,11 +27,11 @@ When I used the model checker to check it, it generated empty initial states.
 
 ## Expected Behavior
 <!--- Tell us what should happen -->
-It should generate non-empty initial states.
+Model checker should generate non-empty initial states.
 
 ## Actual Behavior
 <!--- Tell us what happens instead -->
-It generated empty initial states.
+Model checker generated empty initial states.
 
 ## Steps to Reproduce
 1. git clone git@github.com:ybbh/tla_state.git
